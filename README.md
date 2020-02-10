@@ -1,16 +1,16 @@
 # IS117_Spring2020
 
-GIT
+GIT - PC based version control system
 
-GITHUB
+GITHUB - Server side version control system
 
 Repository
 
 Clone
 
-Commit
+Commit - To make permanent changes
 
-Push
+Push 
 
 Pull
 
