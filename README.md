@@ -4,22 +4,22 @@ GIT - PC based version control system
 
 GITHUB - Server side version control system
 
-Repository
+Repository - In Github, it is a folder that containts all of files and source codes from a project.
 
-Clone
+Clone - A command that downloads an existing Git repository to a computer's local drive.
 
 Commit - To make permanent changes
 
-Push 
+Push - Sends the commited changes to the specific repository in Github.
 
-Pull
+Pull - Takes changes from Github's specific repository and merges it into the local repository on the computer.
 
-Branch
+Branch - A version of a work in progress of the project, where it allows to have mutiple branches to serve as a mean fix bugs, exepriment and develop new feature withouth messing up the master branch. 
 
-Merge
+Merge - Combine and intergrate both branches of the project into a single branch.
 
-Merge Conflict
+Merge Conflict - An event that occurs when there are cometing line changes. 
 
-Fetch
+Fetch - A command that downloads commits, files, and refs from remote repository (Github) to the computer's local drive.
 
-Remote
+Remote - A common repository in Git that all of the team mebers use to exchange their changes. 
