@@ -23,4 +23,5 @@ Merge Conflict - An event that occurs when there are cometing line changes.
 Fetch - A command that downloads commits, files, and refs from remote repository (Github) to the computer's local drive.
 
 Remote - A common repository in Git that all of the team mebers use to exchange their changes. 
-===========================================================================================================================================
+
+========================================================================================================================================
