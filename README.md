@@ -24,4 +24,4 @@ Fetch - A command that downloads commits, files, and refs from remote repository
 
 Remote - A common repository in Git that all of the team mebers use to exchange their changes. 
 
-========================================================================================================================================
+===================================================================================
