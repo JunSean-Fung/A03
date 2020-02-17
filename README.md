@@ -25,9 +25,10 @@ Fetch - A command that downloads commits, files, and refs from remote repository
 Remote - A common repository in Git that all of the team mebers use to exchange their changes. 
 
 ===============================================================================
-Before getting into the process with Github, First, there are some software to be installed into your computer: 
-1. GIT 
-2. Webstorm
+Before getting into the process with Github, First, there are some software to be installed into your computer:
+
+	1. Git
+	2. WebStorm
 
 Then, create a Github account using your internet browser. After the Github sign up, start the WebStorm application on your computer. From there, (Assuming that you do not have any project in Webstorm already) you should be greeted with “Welcome to WebStorm ” pop up, where you can see the Logo of WebStorm on the right side of the pop up and there are three options under it: 
 
@@ -40,6 +41,7 @@ Before you get started with Webstorm, there are some settings to go over before 
     1. For Window: Ctrl + Alt + S 
 
 The setting should pop up and you should be able to see a list of categories on the left side:
+
     1. Click on Version Control drop down menu
     2. Click on Git 
     3. Then, the settings should show up on the right side, where the first options should be “Path to Git executable” and you would need to input that field with the path of the Git.exe file (By default it should be: C:\Program Files\Git\bin\git.exe)
@@ -67,7 +69,8 @@ Here, you will see the file being opened and ready to be edited, we are going to
     4. Here you can change the name of the repository or keep it as how you named it locally. 
     5. Click share button
     
-If any above steps are followed correctly and successfully, your project is now on your Github as a repository. 
+If any above steps are followed correctly and successfully, your project is now on your Github as a repository
+
     1. Go to your Github account using the internet browser
     2. On the left side, you should be able to see the project that you have shared to Github. They should be in the Repositories section.
     3. Since in Github, a project that you created in Webstorm is now called a repository. We can think of both as similar things when both words are mentioned.
