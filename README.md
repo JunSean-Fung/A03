@@ -108,6 +108,7 @@ There should be a green message on the bottom left if the commit process was suc
 After the successful push to the Github, the project in WebStorm also gets updated, Which the ReadME.md file now appears in WebStorm as well.
 
 Reference: 
-Hendela, Arthur H. (2014) Introduction to Github and Webstorm
-Hendela, Arthur H. (2020) Additional Instruction on Creating a Git and Github repository
+
+	Hendela, Arthur H. (2014) Introduction to Github and Webstorm
+	Hendela, Arthur H. (2020) Additional Instruction on Creating a Git and Github repository
     
